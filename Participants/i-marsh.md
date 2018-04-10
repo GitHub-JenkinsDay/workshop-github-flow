@@ -3,5 +3,5 @@
 | Property | Value |
 |:---------------|:-----------------|
 | Name | Ian Marsh |
-| Favorite color | Green |
+| Favorite color | Red |
 | Favorite emoji | :sparkles: |
