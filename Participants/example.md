@@ -1,7 +1,7 @@
-### Hi, I'm [your-github-username]
+### Hi, I'm [sa-jbrooks]
 
 | Property | Value |
 |:---------------|:-----------------|
-| Name | [Your Name] |
-| Favorite color | Rainbow |
-| Favorite emoji | :octocat: |
+| Name | [Jack] |
+| Favorite color | Indigo |
+| Favorite emoji | :dragon: |
