@@ -2,6 +2,6 @@
 
 | Property | Value |
 |:---------------|:-----------------|
-| Name | Ari |
+| Name | arilivigni |
 | Favorite color | Purple |
 | Favorite emoji | :octocat: |
