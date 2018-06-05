@@ -3,5 +3,5 @@
 | Property | Value |
 |:---------------|:-----------------|
 | Name | reselbob |
-| Favorite color | :red_circle: |
+| Favorite color, maybe | :red_circle: |
 | Favorite emoji | :zap: |
