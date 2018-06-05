@@ -3,5 +3,5 @@
 | Property | Value |
 |:---------------|:-----------------|
 | Name | Josh |
-| Favorite color | :blue: |
+| Favorite color | :snowflake: |
 | Favorite emoji | :surfer: |
