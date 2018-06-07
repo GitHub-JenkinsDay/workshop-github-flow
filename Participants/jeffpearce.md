@@ -2,6 +2,6 @@
 
 | Property | Value |
 |:---------------|:-----------------|
-| Name | [Your Name] |
-| Favorite color | Rainbow |
-| Favorite emoji | :octocat: |
+| Name | Jeff Pearce |
+| Favorite color | Yellow |
+| Favorite emoji | :pizza: |
